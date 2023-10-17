@@ -1,6 +1,6 @@
 # Requirements
 
-- (java runtime](https://www.java.com/pt-BR/download/manual.jsp)
+- [java runtime](https://www.java.com/pt-BR/download/manual.jsp)
 
 # Setup and Run
 
