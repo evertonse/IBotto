@@ -1,20 +1,19 @@
 # Requirements
 
-- java runtime
+- (java runtime](https://www.java.com/pt-BR/download/manual.jsp)
 
 # Setup and Run
 
 ## Linux
 
 
-./Digital/Digital.sh main.dig
+    ./Digital/Digital.sh main.dig
 
 
 ## Windows
 
 
-.\Digital\Digital main.dig
-
+    .\Digital\Digital main.dig
 
 
 
