@@ -4,6 +4,10 @@
 
 # Setup and Run
 
+    git clone https://github.com/evertonse/IBotto.git && cd IBotto
+    
+Then run one of the following depending on OS
+
 ## Linux
 
 
