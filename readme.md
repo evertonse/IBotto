@@ -25,3 +25,17 @@ Then run one of the following depending on OS
 
 Program being used is found at [Digital](https://github.com/hneemann/Digital/releases/tag/v0.30)
 
+
+# File Structure
+
+
+    ├── 1-bit-adder.dig
+    ├── 1-bit-subtractor.dig
+    ├── 3-bit-adder.dig
+    ├── ...                       # other components
+    ├── Digital                   # The circuit gui program
+    │   ├── Digital.exe
+    │   ├── Digital.sh
+    ├── main.dig                  # main diagram, includes other diagrams as integrated circuits
+    └── readme.md
+
