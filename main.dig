@@ -4661,6 +4661,11 @@
       </elementAttributes>
       <pos x="-1200" y="60"/>
     </visualElement>
+    <visualElement>
+      <elementName>7-segment.dig</elementName>
+      <elementAttributes/>
+      <pos x="-11840" y="-1820"/>
+    </visualElement>
   </visualElements>
   <wires>
     <wire>
