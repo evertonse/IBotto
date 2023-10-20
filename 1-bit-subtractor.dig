@@ -8,7 +8,7 @@
       <elementAttributes>
         <entry>
           <string>Label</string>
-          <string>borrow_out</string>
+          <string>B_out</string>
         </entry>
       </elementAttributes>
       <pos x="1320" y="720"/>
@@ -38,7 +38,7 @@
       <elementAttributes>
         <entry>
           <string>Label</string>
-          <string>borrow_in</string>
+          <string>B_in</string>
         </entry>
       </elementAttributes>
       <pos x="-60" y="700"/>
@@ -65,7 +65,7 @@
           <string>1 BIT SUBTRACTOR</string>
         </entry>
       </elementAttributes>
-      <pos x="400" y="0"/>
+      <pos x="420" y="320"/>
     </visualElement>
     <visualElement>
       <elementName>XOr</elementName>
