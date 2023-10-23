@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <circuit>
   <version>2</version>
-  <attributes/>
+  <attributes>
+    <entry>
+      <string>shapeType</string>
+      <shapeType>DIL</shapeType>
+    </entry>
+    <entry>
+      <string>romContent</string>
+      <romList>
+        <roms/>
+      </romList>
+    </entry>
+    <entry>
+      <string>Width</string>
+      <int>5</int>
+    </entry>
+  </attributes>
   <visualElements>
     <visualElement>
       <elementName>In</elementName>
@@ -1376,12 +1391,16 @@
       <elementName>Out</elementName>
       <elementAttributes>
         <entry>
+          <string>rotation</string>
+          <rotation rotation="2"/>
+        </entry>
+        <entry>
           <string>Label</string>
           <string>top_1</string>
         </entry>
         <entry>
-          <string>rotation</string>
-          <rotation rotation="2"/>
+          <string>pinNumber</string>
+          <string>16</string>
         </entry>
       </elementAttributes>
       <pos x="1080" y="-2460"/>
@@ -1397,6 +1416,10 @@
           <string>Label</string>
           <string>top_2</string>
         </entry>
+        <entry>
+          <string>pinNumber</string>
+          <string>15</string>
+        </entry>
       </elementAttributes>
       <pos x="1120" y="-2420"/>
     </visualElement>
@@ -1407,6 +1430,10 @@
           <string>Label</string>
           <string>top_3</string>
         </entry>
+        <entry>
+          <string>pinNumber</string>
+          <string>14</string>
+        </entry>
       </elementAttributes>
       <pos x="1220" y="-2420"/>
     </visualElement>
@@ -1416,6 +1443,10 @@
         <entry>
           <string>Label</string>
           <string>top_4</string>
+        </entry>
+        <entry>
+          <string>pinNumber</string>
+          <string>13</string>
         </entry>
       </elementAttributes>
       <pos x="1280" y="-2460"/>
@@ -1431,6 +1462,10 @@
           <string>Label</string>
           <string>bot_1</string>
         </entry>
+        <entry>
+          <string>pinNumber</string>
+          <string>12</string>
+        </entry>
       </elementAttributes>
       <pos x="1060" y="-2240"/>
     </visualElement>
@@ -1445,6 +1480,10 @@
           <string>Label</string>
           <string>bot_2</string>
         </entry>
+        <entry>
+          <string>pinNumber</string>
+          <string>11</string>
+        </entry>
       </elementAttributes>
       <pos x="1100" y="-2280"/>
     </visualElement>
@@ -1455,6 +1494,10 @@
           <string>Label</string>
           <string>bot_3</string>
         </entry>
+        <entry>
+          <string>pinNumber</string>
+          <string>10</string>
+        </entry>
       </elementAttributes>
       <pos x="1220" y="-2280"/>
     </visualElement>
@@ -1464,6 +1507,10 @@
         <entry>
           <string>Label</string>
           <string>bot_4</string>
+        </entry>
+        <entry>
+          <string>pinNumber</string>
+          <string>9</string>
         </entry>
       </elementAttributes>
       <pos x="1380" y="-2180"/>

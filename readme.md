@@ -1,32 +1,34 @@
-# Requirements
+# IBotto Processor 2.0
+
+## Requirements
 
 - [java runtime](https://www.java.com/pt-BR/download/manual.jsp)
 
-# Setup and Run
+## Setup and Run
 
     git clone https://github.com/evertonse/IBotto.git && cd IBotto
     
 Then run one of the following depending on OS
 
-## Linux
+### Linux
 
 
     ./Digital/Digital.sh main.dig
 
 
-## Windows
+### Windows
 
 
     .\Digital\Digital main.dig
 
 
 
-# Resources
+## Resources
 
 Program being used is found at [Digital](https://github.com/hneemann/Digital/releases/tag/v0.30)
 
 
-# File Structure
+## File Structure
 
 
     ├── 1-bit-adder.dig
@@ -39,3 +41,5 @@ Program being used is found at [Digital](https://github.com/hneemann/Digital/rel
     ├── main.dig                  # main diagram, includes other diagrams as integrated circuits
     └── readme.md
 
+
+<img src="./img/overview.png" width="800">
