@@ -42,4 +42,5 @@ Program being used is found at [Digital](https://github.com/hneemann/Digital/rel
     └── readme.md
 
 
-<img src="./img/overview.png" width="800">
+<img src="./img/overview.png">
+<!-- <img src="./img/overview.png" width="800"> -->
